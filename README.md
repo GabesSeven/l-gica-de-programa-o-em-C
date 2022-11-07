@@ -13,7 +13,7 @@
 
 ## 📁 Project access
 
-You can [access the project's source code](https://github.com/GabesSeven/GabesSeven/programming-logic-and-data-structures-in-C-course-work-Algorithms-I-and-Algorithms-II/) or [download it](https://github.com/GabesSeven/GabesSeven/programming-logic-and-data-structures-in-C-course-work-Algorithms-I-and-Algorithms-II/archive/refs/heads/main.zip).
+You can [access the project's source code](https://github.com/GabesSeven/programming-logic-and-data-structures-in-C-course-work-Algorithms-I-and-Algorithms-II/) or [download it](https://github.com/GabesSeven/programming-logic-and-data-structures-in-C-course-work-Algorithms-I-and-Algorithms-II/archive/refs/heads/main.zip).
 
 ## ✔️ Techniques and technologies used
 
