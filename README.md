@@ -15,11 +15,14 @@
 
 You can [access the project's source code](https://github.com/GabesSeven/programming-logic-and-data-structures-in-C-course-work-Algorithms-I-and-Algorithms-II/) or [download it](https://github.com/GabesSeven/programming-logic-and-data-structures-in-C-course-work-Algorithms-I-and-Algorithms-II/archive/refs/heads/main.zip).
 
+<hr>
+
 ## ✔️ Techniques and technologies used
 
 - ``C``
 - ``DOS virtual machine``
 
+<hr>
 
 ## 🧑‍💻 Developer
 
